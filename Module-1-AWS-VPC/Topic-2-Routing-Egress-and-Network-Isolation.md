@@ -13,7 +13,7 @@ The difference often comes down to **routing**:
 - How network paths behave during failures.
 
 ---
-
+ 
 ## 1. Route Tables Define the Traffic Path
 
 A subnet's route table determines where traffic is directed based on the destination CIDR and route target.
