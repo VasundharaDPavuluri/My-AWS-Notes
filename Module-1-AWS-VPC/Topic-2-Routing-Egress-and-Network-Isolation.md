@@ -10,7 +10,7 @@ The difference often comes down to **routing**:
 - How traffic gets there.
 - Which paths are intentionally unavailable.
 - How workloads access the internet and AWS services.
-- How network paths behave during failures.
+- How network paths behave during failures. 
 
 ---
  
